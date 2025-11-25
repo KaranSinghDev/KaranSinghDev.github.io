@@ -5,7 +5,6 @@ categories: [C++, Systems Design]
 tags: [performance, database, optimization, cpp, lsm-tree]
 author_profile: true
 ---
-
 ## A Curiosity-Driven Deep Dive Inspired by Real-World Bottlenecks
 
 For the past few years, my work has revolved around projects that deal heavily with time-series data—everything from performance metrics pipelines to large-scale scientific computing workloads. During my contributions as a Google Summer of Code student with CERN-HSF, I worked with massive streams of timestamped detector readings and system monitoring signals. To give an idea, the LHC (Large Hadron Collider at CERN) produces around 40 million collision events per second, each generating large amounts of numeric data. So for such cases efficient storage and fast retrieval aren’t just “nice to have”, in the current scenario they’re essential.
