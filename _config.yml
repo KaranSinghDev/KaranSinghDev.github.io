@@ -105,3 +105,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+
+
+footer_scripts:
+  - "https://unpkg.com/mermaid@10/dist/mermaid.min.js"
