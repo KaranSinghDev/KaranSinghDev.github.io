@@ -1,9 +1,10 @@
 ---
 title: "Understanding Time-Series Systems the Hard Way: By Building One"
-date: 2025-11-26 10:00:00 +0100
+date: 2025-11-24 10:00:00 +0100
 categories: [C++, Systems Design]
 tags: [performance, database, optimization, cpp, lsm-tree]
 author_profile: true
+mermaid: true 
 ---
 ## A Curiosity-Driven Deep Dive Inspired by Real-World Bottlenecks
 
